@@ -11,7 +11,6 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -83,9 +82,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com'
 		},
 	],
 
